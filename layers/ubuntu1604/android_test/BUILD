@@ -47,6 +47,8 @@ download_pkgs(
         "lsof",
         "xvfb",
         "zlib1g:i386",
+        "libxcursor1",
+        "libxcomposite1",
     ],
 )
 
